@@ -29,6 +29,7 @@ body{
     letter-spacing: 10%;
     padding:10px 0px;
     color:white;
+    
 }
 .india{
     /* width:236px; */
@@ -190,7 +191,7 @@ body{
     width:30%;
     margin-left:70%;
     text-align: right;
-    color:white;
+    color:#F16B58;
     Font-size: 48px;
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 5%;
@@ -274,6 +275,7 @@ body{
     /* border:2px solid yellow; */
     width:85%;
     margin:auto;
+    background-color: #24344E;
 }
 @media only screen and (max-width:500px){
     .Australia{
