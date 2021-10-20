@@ -164,6 +164,7 @@ body{
        
         
     }
+  
     .mp1{
         width:205%;
         border-radius: 13px;
@@ -273,4 +274,41 @@ body{
     /* border:2px solid yellow; */
     width:85%;
     margin:auto;
+}
+@media only screen and (max-width:500px){
+    .Australia{
+        border-bottom: 1px solid white;
+        margin-right:100px;
+        width:40%;
+        margin-left:45%;
+        padding-left:60px;
+    }
+}
+
+@media only screen and (max-width:430px){
+    .Australia{
+        border-bottom: 1px solid white;
+       /* border:2px solid pink; */
+        width:60%;
+        margin-left:25%;
+        padding-left:60px;
+    }
+}
+@media only screen and (max-width:350px){
+    .Australia{
+        border-bottom: 1px solid white;
+       /* border:2px solid pink; */
+        width:60%;
+        margin-left:17%;
+        padding-left:60px;
+    }
+}
+@media only screen and (max-width:290px){
+    .Australia{
+        border-bottom: 1px solid white;
+       /* border:2px solid pink; */
+        width:60%;
+        margin-left:5%;
+        padding-left:60px;
+    }
 }
