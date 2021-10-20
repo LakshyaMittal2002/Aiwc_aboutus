@@ -317,3 +317,12 @@ letter-spacing: 0.065em;
 color: #FFFFFF;
     }
 }
+@media only screen and (max-width: 300px){
+    .box1{
+        position:relative;
+        top:-200px;
+        
+        
+    }
+
+}
