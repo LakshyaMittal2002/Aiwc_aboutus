@@ -326,3 +326,13 @@ color: #FFFFFF;
     }
 
 }
+
+@media only screen and (max-width: 250px){
+    .box1{
+        position:relative;
+        top:-150px;
+        
+        
+    }
+
+}
